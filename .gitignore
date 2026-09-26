@@ -1,0 +1,11 @@
+# Build output
+bin/
+tcplife-go
+
+# Generated from the running kernel's BTF by `go generate` (see bpf.go).
+vmlinux.h
+
+# Editor / OS
+.DS_Store
+*.swp
+*~
